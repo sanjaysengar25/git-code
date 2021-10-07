@@ -5,7 +5,7 @@
 1. Clone this repo
 
 ```
-git clone https://github.com/samironbarai/lumen-rest-api-jwt-auth.git
+https://github.com/sanjaysengar25/git-code.git
 ```
 
 2. Install composer packages
