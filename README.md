@@ -31,10 +31,3 @@ $ php artisan jwt:secret
 $ php artisan migrate
 ```
 
-To test application follow the tutorial bellow.
-Click on the image bellow to see YouTube video.
-
-[![Lumen REST API Crash Course 2021 (Passport and JWT authentication)](https://img.youtube.com/vi/qG0djDRXV_g/0.jpg)](https://www.youtube.com/watch?v=qG0djDRXV_g)
-
-Please visit my website.
-[samironbarai.com](https://samironbarai.com/)
