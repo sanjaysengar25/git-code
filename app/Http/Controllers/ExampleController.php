@@ -11,8 +11,8 @@ class ExampleController extends Controller
      */
     public function __construct()
     {
-        //
+      return "dfvdvdv df f f f";
     }
 
-    //
+
 }
