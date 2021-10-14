@@ -5,13 +5,13 @@ return [
         'guard' => 'api',
         'passwords' => 'users',
     ],
-
     'guards' => [
         'api' => [
             'driver' => 'jwt',
             'provider' => 'users',
         ],
     ],
+    
 
     'providers' => [
         'users' => [

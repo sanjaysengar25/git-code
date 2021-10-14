@@ -11,7 +11,7 @@ class ExampleController extends Controller
      */
     public function __construct()
     {
-       echo "this is the luman"
+       echo "this is the luman";
 
     }
 
